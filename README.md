@@ -40,5 +40,5 @@ O desafio consiste em implementar duas telas disponibilizadas [neste link](https
 ### O que esperamos
 
 * Um repositório público no Github com o código da sua solução;
-* Adicionar os usuários @daviresio @gandarez e @julioshinoda @marcelinobadin @GabrielFelix10 como colaboradores do repositório;
+* Adicionar os usuários @daviresio @gandarez @GabrielFelix10 como colaboradores do repositório;
 * Um arquivo README.md com as instruções de como executar o projeto;
