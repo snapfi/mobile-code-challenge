@@ -1,12 +1,5 @@
 # mobile-code-challenge
 
-## Overview
-
-A Snapfi se propõe a resolver um problema identificado entre os MEI e autônomos: A dificuldade de gestão financeira que essas pessoa tem.
-
-Nossa proposta é oferecer aos nossos clientes ferramentas de gestão financeira e serviços financeiros, além de educá-los a ter um melhor controle da gestão do seu negócio. 
-
-
 ## Desafio
 
 O desafio consiste em implementar uma Pokédex, o layout pode ser encontrado [neste link](https://www.figma.com/file/oyy40kpPCamOuJOQu1uYMo/Pok%C3%A9dex-(Community)?node-id=1016-1461&t=QxTzOwYXlWmM6Xmf-0) e a documentação da api [neste link](https://pokeapi.co/)
