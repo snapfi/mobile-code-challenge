@@ -6,30 +6,29 @@ A Snapfi se propõe a resolver um problema identificado entre os MEI e autônomo
 
 Nossa proposta é oferecer aos nossos clientes ferramentas de gestão financeira e serviços financeiros, além de educá-los a ter um melhor controle da gestão do seu negócio. 
 
-Para tal acreditamos que precisamos testar e validar as soluções criadas, principalmente através de testes A/B. Para garantir um volume e agilidade maior na entrega dos testes vamos utilizar a arquitetura server-driven-ui.
-
 
 ## Desafio
 
-O desafio consiste em implementar duas telas disponibilizadas [neste link](https://www.figma.com/file/WGDbADECEmpbnAY2MtEtmL/teste-pratico-mobile) com server-driven-ui
+O desafio consiste em implementar uma Pokédex, o layout pode ser encontrado [neste link](https://www.figma.com/file/oyy40kpPCamOuJOQu1uYMo/Pok%C3%A9dex-(Community)?node-id=1016-1461&t=QxTzOwYXlWmM6Xmf-0) e a documentação da api [neste link](https://pokeapi.co/)
 
-* Criar a UI da tela de home do Pix
-* Ao tocar no ultimo botão "Configurar Limites Pix" navegar para a tela seguinte
-* Exibir a tela de Limites do pix com os valores iniciais preenchidos
-* Aplicar a formatação correspondente nos inputs de texto
-* Ao clicar em salvar enviar os dados para o servidor de forma "simulada" e voltar para a tela anterior
+### Tela de listagem
+* Exibir uma listagem de pokemons com nome, imagem e número (id) e carregar os dados usando paginação infinita
+* Barra de pesquisa e ordenação não são necessárias
 
-### Requisitos
+### Tela de detalhe
+* Exibir uma tela com os detalhes do pokemon
+* Texto de descrição do pokemon não é necessario
 
-* O aplicativo deve ser escrito em Flutter e utilizando server-driven-ui;
-* Escolha bibliotecas que mais se sentir confortavel;
-* As requisições para o servidor podem ser mockadas;
+## Requisitos
 
-### Diferenciais
+* O aplicativo deve ser escrito em Flutter
+* Escolha bibliotecas que mais se sentir confortavel
+
+## Diferenciais
 
 * Testes;
 
-### O que será avaliado
+## O que será avaliado
 
 * Qualidade do código;
 * Organização do projeto;
@@ -40,5 +39,5 @@ O desafio consiste em implementar duas telas disponibilizadas [neste link](https
 ### O que esperamos
 
 * Um repositório público no Github com o código da sua solução;
-* Adicionar os usuários @daviresio @gandarez @GabrielFelix10 como colaboradores do repositório;
+* Adicionar os usuários @marcelinobadin @daviresio @gandarez @GabrielFelix10 como colaboradores do repositório;
 * Um arquivo README.md com as instruções de como executar o projeto;
