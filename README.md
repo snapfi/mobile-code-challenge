@@ -32,5 +32,5 @@ O desafio consiste em implementar uma Pokédex, o layout pode ser encontrado [ne
 ### O que esperamos
 
 * Um repositório público no Github com o código da sua solução;
-* Adicionar os usuários @marcelinobadin @daviresio @gandarez @GabrielFelix10 como colaboradores do repositório;
+* Adicionar os usuários @marcelinobadin @daviresio @jvaczcorporation @gandarez @GabrielFelix10 como colaboradores do repositório;
 * Um arquivo README.md com as instruções de como executar o projeto;
